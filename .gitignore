@@ -1,0 +1,32 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.opendb
+*.VC.db
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Windows image file caches
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# User-specific files
+*.userosscache
+*.sln.docstates
+
+# Publish output
+publish/
